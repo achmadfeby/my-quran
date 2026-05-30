@@ -17,6 +17,8 @@ Aplikasi ini dibuat sebagai bagian dari Mobile App Technical Test.
 - Retry ketika request gagal
 
 # Project Structure
+
+```text
 lib/
 ├── core/
 │   ├── di/
@@ -40,6 +42,7 @@ lib/
 │           └── widgets/
 │
 └── main.dart
+```
 
 
 # Tech stack
