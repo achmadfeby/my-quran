@@ -140,10 +140,10 @@ Clean Architecture + BLoC karena:
 # Screenshoots 
 
 ## Home page (List surah)
-![Home](screenshots/home.png)
+![Home](assets/screenshots/home.png)
 
 ## Detail surah
-![Detail surah](screenshots/detail_surah.png)
+![Detail surah](assets/screenshots/detail_surah.png)
 
 ## Audio Player
-![Audio Player](screenshots/audio_player.png)
+![Audio Player](assets/screenshots/audio_player.png)
