@@ -143,7 +143,7 @@ Clean Architecture + BLoC karena:
       <b>Home Page</b>
     </td>
     <td align="center">
-      <img src="assets/screenshots/detail_surah.png" width="250"/><br/>
+      <img src="assets/screenshots/dettail_surah.png" width="250"/><br/>
       <b>Detail Surah</b>
     </td>
     <td align="center">
