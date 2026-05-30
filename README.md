@@ -135,15 +135,20 @@ Clean Architecture + BLoC karena:
     - flutter pub get
     - dart run build_runner build --delete-conflicting-outputs
 
-
-
-# Screenshoots 
-
-## Home page (List surah)
-![Home](assets/screenshots/home.png)
-
-## Detail surah
-![Detail surah](assets/screenshots/detail_surah.png)
-
-## Audio Player
-![Audio Player](assets/screenshots/audio_player.png)
+# Screenshots
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/home.png" width="250"/><br/>
+      <b>Home Page</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/detail_surah.png" width="250"/><br/>
+      <b>Detail Surah</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/audio_player.png" width="250"/><br/>
+      <b>Audio Player</b>
+    </td>
+  </tr>
+</table>
